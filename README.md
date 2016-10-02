@@ -1,2 +1,2 @@
 # aabowen.github.io
-This is my Website and Portfolio
+This is my Website, Portfolio and Blog.
